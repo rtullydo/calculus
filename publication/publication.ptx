@@ -15,7 +15,7 @@
       <!--<chunking level="1" />-->
 
     <!-- Depth for table of contents.  0 means no TOC -->
-      <!--<tableofcontents level="1" />-->
+    <tableofcontents level="0" />
 
     <!-- Visibility of exercise components where they first appear.          -->
     <!-- There are four components (statement/hint/answer/solution) for each -->
@@ -112,7 +112,7 @@
       <!--<worksheet formatted="yes" />-->
   </latex>
 
-  <html>
+  <html embed-button="yes">
     <!-- A possible attribute for the html tag above is @short-answer-responses, with values either "always" or "graded".  As in: -->
     <!--<html short-answer-responses="always">-->
 

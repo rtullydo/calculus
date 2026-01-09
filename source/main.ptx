@@ -11,9 +11,36 @@
     <!-- Include frontmatter -->
     <xi:include href="./frontmatter.ptx" />
 
-    <!-- Include chapters -->
-    <xi:include href="./ch-chapter-title.ptx" />
-
+    
+    <chapter xml:id="ch-quizzes">
+      <title>Quizzes</title>
+      <section xml:id="sec-quiz-1">
+        <title>Quiz 1</title>
+        <exercises>
+        <exercise>
+          <statement>
+          <p>Compute the integral
+          <me>
+            \int_1^2 \frac{x}{\sqrt{x+2}}\, dx
+          </me>
+        </p>
+        </statement>
+        <hint>
+          <p>
+            Consider using a <m>u</m> substitutuion.
+          </p>
+        </hint>
+      </exercise>
+      <exercise>
+        <statement>
+          <p>
+            Sketch the region enclosed by the curves <m>x = 2y^2</m> and <m>x = 4 + y^2</m>. Calculate the area of the region.
+          </p>
+        </statement>
+      </exercise>
+    </exercises>
+      </section>
+    </chapter>
 
     <!-- Include backmatter -->
     <xi:include href="./backmatter.ptx" />
