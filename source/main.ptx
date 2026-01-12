@@ -11,7 +11,36 @@
     <!-- Include frontmatter -->
     <xi:include href="./frontmatter.ptx" />
 
-    
+    <chapter xml:id="ch-chapter-5-notes">
+      <title>Chapter 5 Notes</title>
+      <section xml:id="sec-5-2-volumes">
+        <title>5.2 Volumes</title>
+        <p>
+        The basic idea of using calculus to find the volume of solids (an idea that goes all the way back to Archimedes at least) is to cut the solid up into slices and then use the formula for computing the volume of a cylinder.   
+        </p>
+
+        <remark>
+          The volume of a <term>right circular cylinder</term> is given by
+          <me>
+            V = (\pi r^2) h,
+          </me>
+          where <m>r</m> is the radius of the cylider and <m>h</m> is the height. We can also write this formula more generally as 
+          <me>
+            V = B h,
+          </me>
+          where <m>B</m> is the area of a typical cross-section, as indicated in Figure <xref ref="fig-cylindervolume"/>. 
+        </remark>
+
+        <figure xml:id="fig-cylindervolume">
+          <image source="cylinders.png">
+            <shortdescription></shortdescription>
+          </image>
+          <caption>Volume of a right circular cylinder and a typical slice</caption>
+        </figure>
+
+      </section>
+    </chapter>
+
     <chapter xml:id="ch-quizzes">
       <title>Quizzes</title>
       <section xml:id="sec-quiz-1">
