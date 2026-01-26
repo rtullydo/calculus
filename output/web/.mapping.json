@@ -1,1 +1,1 @@
-{"source/main.ptx": ["my-great-book", "ch-chapter-5-notes", "sec-5-2-volumes", "ch-quizzes", "sec-quiz-1", "ch-review-material", "sec-sample-exam-1"], "source/frontmatter.ptx": ["frontmatter", "front-colophon"], "source/backmatter.ptx": ["backmatter"]}
+{"source/main.ptx": ["my-great-book", "frontmatter", "front-colophon", "ch-chapter-5-notes", "sec-5-2-volumes", "ch-quizzes", "sec-quiz-1", "ch-review-material", "sec-sample-exam-1", "backmatter"]}
