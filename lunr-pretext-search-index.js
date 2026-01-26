@@ -43,7 +43,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "2.1",
   "title": "Quiz 1",
-  "body": " Quiz 1    Compute the integral    Consider using a substitutuion.    Sketch the region enclosed by the curves and . Calculate the area of the region.    "
+  "body": " Quiz 1     Compute the integral     Consider using a substitutuion.      Sketch the region enclosed by the curves and . Calculate the area of the region.     "
 },
 {
   "id": "sec-quiz-1-2-1",
@@ -52,7 +52,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "2.1.1",
   "title": "",
-  "body": " Compute the integral    Consider using a substitutuion.  "
+  "body": "  Compute the integral     Consider using a substitutuion.   "
 },
 {
   "id": "sec-quiz-1-2-2",
@@ -61,7 +61,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "2.1.2",
   "title": "",
-  "body": " Sketch the region enclosed by the curves and . Calculate the area of the region.  "
+  "body": "  Sketch the region enclosed by the curves and . Calculate the area of the region.   "
 },
 {
   "id": "sec-sample-exam-1",
@@ -70,7 +70,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "3.1",
   "title": "Sample Exam 1",
-  "body": " Sample Exam 1    Evaluate the integrals:                Consider the region bounded by the curves . Draw the region.    Set up but do not evaluate an integral computing the volume of the solid obtained by rotating the region about the line . Draw a typical cross-section and give its volume.    Set up but do not evaluate the integral to compute the volume of solid obtained by rotating the region about . Draw a typical cross-section and give its volume.      Sketch the region enclosed between and between and . Label any points of intersection. Find the area of the region.    A tank in the shape of an inverted cone sitting on the ground (that is, the point is sticking up) has height 10m and base radius of 6m. Water is in the tank to a height of 8m. Sketch the problem. Find the work required to empty the tank through the top. (You can use a water density of 1000 and .)    Consider the function .    Find an equation of the tangent line to at point where .    The function has a relative minimum. Find it.     Fir part b, consider using the derivative to find points with 0 slope.    "
+  "body": " Sample Exam 1     Evaluate the integrals:                  Consider the region bounded by the curves . Draw the region.    Set up but do not evaluate an integral computing the volume of the solid obtained by rotating the region about the line . Draw a typical cross-section and give its volume.    Set up but do not evaluate the integral to compute the volume of solid obtained by rotating the region about . Draw a typical cross-section and give its volume.        Sketch the region enclosed between and between and . Label any points of intersection. Find the area of the region.      A tank in the shape of an inverted cone sitting on the ground (that is, the point is sticking up) has height 10m and base radius of 6m. Water is in the tank to a height of 8m. Sketch the problem. Find the work required to empty the tank through the top. (You can use a water density of 1000 and .)      Consider the function .    Find an equation of the tangent line to at point where .    The function has a relative minimum. Find it.      Fir part b, consider using the derivative to find points with 0 slope.     "
 },
 {
   "id": "exercises--1",
@@ -79,7 +79,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "3.1.1",
   "title": "",
-  "body": " Evaluate the integrals:              "
+  "body": "  Evaluate the integrals:               "
 },
 {
   "id": "exercises--2",
@@ -88,7 +88,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "3.1.2",
   "title": "",
-  "body": " Consider the region bounded by the curves . Draw the region.    Set up but do not evaluate an integral computing the volume of the solid obtained by rotating the region about the line . Draw a typical cross-section and give its volume.    Set up but do not evaluate the integral to compute the volume of solid obtained by rotating the region about . Draw a typical cross-section and give its volume.    "
+  "body": "  Consider the region bounded by the curves . Draw the region.    Set up but do not evaluate an integral computing the volume of the solid obtained by rotating the region about the line . Draw a typical cross-section and give its volume.    Set up but do not evaluate the integral to compute the volume of solid obtained by rotating the region about . Draw a typical cross-section and give its volume.     "
 },
 {
   "id": "exercises--3",
@@ -97,7 +97,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "3.1.3",
   "title": "",
-  "body": " Sketch the region enclosed between and between and . Label any points of intersection. Find the area of the region.  "
+  "body": "  Sketch the region enclosed between and between and . Label any points of intersection. Find the area of the region.   "
 },
 {
   "id": "exercises--4",
@@ -106,7 +106,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "3.1.4",
   "title": "",
-  "body": " A tank in the shape of an inverted cone sitting on the ground (that is, the point is sticking up) has height 10m and base radius of 6m. Water is in the tank to a height of 8m. Sketch the problem. Find the work required to empty the tank through the top. (You can use a water density of 1000 and .)  "
+  "body": "  A tank in the shape of an inverted cone sitting on the ground (that is, the point is sticking up) has height 10m and base radius of 6m. Water is in the tank to a height of 8m. Sketch the problem. Find the work required to empty the tank through the top. (You can use a water density of 1000 and .)   "
 },
 {
   "id": "exercises--5",
@@ -115,7 +115,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "3.1.5",
   "title": "",
-  "body": " Consider the function .    Find an equation of the tangent line to at point where .    The function has a relative minimum. Find it.     Fir part b, consider using the derivative to find points with 0 slope.  "
+  "body": "  Consider the function .    Find an equation of the tangent line to at point where .    The function has a relative minimum. Find it.      Fir part b, consider using the derivative to find points with 0 slope.   "
 },
 {
   "id": "backmatter-2",
