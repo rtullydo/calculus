@@ -71,6 +71,91 @@
       </section>
     </chapter>
 
+    <chapter xml:id="ch-review-material">
+      <title>Review material</title>
+      <section xml:id="sec-sample-exam-1">
+        <title>Sample Exam 1</title>
+        <exercises xml:id="exercises-">
+          <exercise>
+            <statement>
+              <p>
+                Evaluate the integrals:
+                <ol>
+                  <li>
+                    <p>
+                      <m>\ds \int \frac{z^2}{\sqrt[3]{1 + z}}\, dz</m>
+                    </p>
+                  </li>
+                  <li>
+                    <p>
+                      <m> \ds \int_0^1 e^x\sin(1 + e^x)  \, dx </m>
+                    </p>
+                  </li>
+                </ol>
+              </p>
+            </statement>
+          </exercise>
+          <exercise>
+            <statement>
+              <p>
+              Consider the region bounded by the curves <m>x = 3y^2 - y^3, x = 0</m>. Draw the region.  
+              </p>
+              <ol>
+                <li>
+                  <p>
+                   Set up but do not evaluate an integral computing the volume of the solid obtained by rotating the region about the line <m>x = -1</m>. Draw a typical cross-section and give its volume. 
+                  </p>
+                </li>
+                <li>
+                  <p>
+                  Set up but do not evaluate the integral to compute the volume of solid obtained by rotating the region about <m>y = -1</m>. Draw a typical cross-section and give its volume.  
+                  </p>
+                </li>
+              </ol>
+            </statement>
+          </exercise>
+          <exercise>
+            <statement>
+              <p>
+               Sketch the region enclosed between <m>y = 2 \sin 2x</m> and <m>y = 2 \cos x</m> between <m>x = 0</m> and <m>x = \pi / 2</m>. Label any points of intersection. Find the area of the region. 
+              </p>
+            </statement>
+          </exercise>
+          <exercise>
+            <statement>
+              <p>
+                A tank in the shape of an inverted cone sitting on the ground (that is, the point is sticking up) has height 10m and base radius of 6m. Water is in the tank to a height of 8m. Sketch the problem. Find the work required to empty the tank through the top. (You can use a water density of 1000 <m>kg/m^3</m> and <m>g = 10 \,\, m/s^2</m>.)
+              </p>
+            </statement>  
+          </exercise>
+          <exercise>
+            <statement>
+              <p>
+               Consider the function <m> \ds f(x) = x^2 \ln x</m>.
+              </p>
+              <ol>
+                <li>
+                  <p>
+                  Find an equation of the tangent line to <m>f(x)</m> at point where <m>x = e</m>.  
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    The function has a relative minimum. Find it. 
+                  </p>
+                </li>
+              </ol>
+            </statement>
+            <hint>
+              <p>
+                Fir part b, consider using the derivative to find points with 0 slope.
+              </p>
+            </hint>
+          </exercise>
+        </exercises>
+      </section>
+    </chapter>
+
     <!-- Include backmatter -->
     <xi:include href="./backmatter.ptx" />
 
