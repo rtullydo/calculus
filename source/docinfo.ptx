@@ -119,6 +119,7 @@
           \numberwithin{equation}{section}
           \newcommand\nin{\noindent}
           \newcommand{\nCr}[2]{\,_{#1}C_{#2}} % nCr
+          \newcommand{\mbf}{\mathbf}
   </macros>
 
   <!-- If you put any latex-image elements you can include preambles -->

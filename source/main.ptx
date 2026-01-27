@@ -5,8 +5,7 @@
   <xi:include href="./docinfo.ptx" />
 
   <book xml:id="my-great-book">
-    <title>My Great Book</title>
-    <subtitle>An example to get you started</subtitle>
+    <title>Calculus Resources</title>
 
     <!-- Include frontmatter -->
     <xi:include href="./frontmatter.ptx" />
@@ -153,6 +152,173 @@
             </hint>
           </exercise>
         </exercises>
+      </section>
+    </chapter>
+
+    <chapter xml:id="ch-exam-topics">
+      <section xml:id="sec-lin-alg">
+      <title>Exam 1 Topics</title>
+      <ol>
+        <li>
+          <p>
+          Section 1.1
+          <ol>
+            <li>
+              <p>
+                Solving linear systems - Ex 5, 7, 9
+              </p>
+            </li>
+            <li>
+              <p>
+                Systems with zero, one, or infinite solutions - Ex 20
+              </p>
+            </li>
+          </ol> 
+          </p>
+        </li>
+        <li>
+          <p>
+            Section 1.2 
+            <ol>
+              <li>
+                <p>
+                  Row reduced echelon form - Ex 5, 7
+                </p>
+              </li>
+              <li>
+                <p>
+                  Finding solutions to combinations of vectors - Ex 38
+                </p>
+              </li>
+            </ol>
+          </p>
+        </li>
+        <li>
+          <p>
+            Section 1.3
+          </p>
+          <ol>
+            <li>
+              <p>
+                Rank of a matrix - Ex 2, 3, 4
+              </p>
+            </li>
+            <li>
+              <p>
+                Matrix times a vector - Ex 16, 17, 18
+              </p>
+            </li>
+            <li>
+              <p>
+                Definition of a linear combination; finding linear combinations - Ex 55, 58
+              </p>
+            </li>
+          </ol>
+        </li>
+        <li>
+          <p>
+            Chapter 1 True/False: Ex - 2, 3, 5, 11, 17, 20, 21
+          </p>
+        </li>
+        <li>
+          <p>
+            Section 2.1
+          </p>
+          <ol>
+            <li>
+              <p>
+                Definition of a linear transformation
+              </p>
+            </li>
+            <li>
+              <p>
+                Finding the matrix of a linear transformation - Ex 4, 6, 
+              </p>
+            </li>
+            <li>
+              <p>
+                Theorem 2.1.3 - Characterizing linear transformations - Ex 43, 45
+              </p>
+            </li>
+          </ol>
+        </li>
+        <li>
+          <p>
+            Section 2.2
+          </p>
+          <ol>
+            <li>
+              <p>
+                Definition 2.2.1 - Orthogonal projections on to a line - (see quiz 3) For another example, find the matrix of the linear transformation that projects vectors <m>\mbf x</m> onto the line with equation <m>y = -\frac{1}{4} x</m>.
+              </p>
+            </li>
+            <li>
+              <p>
+                Finding the matrix for a rotation - Ex 2
+              </p>
+            </li>
+            <li>
+              <p>
+               Finding the matrix of a composition of simple transformations (see Quiz 2). For another exercise, find the matrix of the transformation <m>T</m> that reflects a vector across the <m>x</m>-axis, and then rotates it <m>\pi/3</m> radians counterclockwise. Then use the matrix to compute <m>T\left( \bbm 1 \\ 1 \ebm \right)</m>.
+              </p>
+            </li>
+          </ol>
+        </li>
+        <li>
+          <p>
+            Section 2.3
+          </p>
+          <ol>
+            <li>
+              <p>
+                Matrix multiplication - Ex 7, 10, 11, 57
+              </p>
+            </li>
+            <li>
+              <p>
+                Properties of matrix multiplication - Ex 43, 44, 65
+              </p>
+            </li>
+          </ol>
+        </li>
+        <li>
+          <p>
+            Section 2.4
+          </p>
+          <ol>
+            <li>
+              <p>
+                Definition of invertible matrix
+              </p>
+            </li>
+            <li>
+              <p>
+                Conditions for invertible matrix
+              </p>
+            </li>
+            <li>
+              <p>
+                Finding inverse matrices - Ex 1, 3, 7, 9, 33
+              </p>
+            </li>
+            <li>
+              <p>
+                Inverse of a product - Ex 67-75
+              </p>
+            </li>
+            <li>
+              <p>
+                Determinants and invertible matrices
+              </p>
+            </li>
+          </ol>
+        </li>
+        <li>
+          <p>
+            Chapter 2 True/False - Ex 2, 5, 6, 7, 8, 17, 22, 28, 30, 40, 43 
+          </p>
+        </li>
+      </ol>
       </section>
     </chapter>
 
