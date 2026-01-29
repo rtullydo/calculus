@@ -320,6 +320,115 @@
         </li>
       </ol>
       </section>
+      <section xml:id="sec-sample-exam-questions">
+        <title>Sample exam questions</title>
+        <exercises xml:id="exercises-linalg_ex1">
+          <exercise>
+            <statement>
+              <p>
+                <ol marker="(a)">
+                  <li>
+                    <p>
+                      Define what it means for <m>\mbf b</m> to be a linear combination of vectors <m>\mbf v_1, \ldots, \mbf v_n</m>.
+                    </p>
+                  </li>
+                  <li>
+                    <p>
+                      Show that <m> \bbm -4 \\ 4 \\ -3 \ebm</m> is a linear combination of <m>\bbm -2 \\ 2 \\ 5 \ebm, \bbm 6 \\ 0 \\ -3 \ebm, \bbm 1 \\ 2 \\10 \ebm</m>.
+                    </p>
+                  </li>
+                </ol>
+              </p>
+            </statement>
+          </exercise>
+          <exercise>
+            <statement>
+              <p>
+                Solve the linear system
+                <md>
+                  <mrow> -2x_1 - 3x_2 + 3x_3 \amp= -1 </mrow>
+                  <mrow> -2x_2 + 2x_3 \amp= -2 </mrow>
+                  <mrow>5x_1 + 2x_2 - 1 x_3  \amp=\phantom{-} 6 </mrow>
+                </md>
+              </p>
+            </statement>
+          </exercise>
+          <exercise>
+            <statement>
+              <p>
+                Suppose that a matrix <m>A</m> is a <m>5 \times 5</m> matrix with 
+                <me>
+                  \mathrm{rref}(A) = \bbm 1 \amp 0 \amp 6 \amp 0 \amp 1 \\ 0 \amp 1 \amp -1 \amp 0 \amp 7 \\ 0 \amp 0 \amp 0 \amp 1 \amp 4 \\ 0 \amp 0 \amp 0 \amp 0 \amp 0 \\ 0 \amp 0 \amp 0 \amp 0 \amp 0 \ebm
+                </me>
+              </p>
+              <p>
+                <ol marker="(a)">
+                  <li>
+                    <p>
+                      What is <m>\rank (A)</m>?
+                    </p>
+                  </li>
+                  <li>
+                    <p>
+                      Find all solutions to the matrix equation <m>A \mbf x = \mbf 0</m>.
+                    </p>
+                  </li>
+                  <li>
+                    <p>
+                      Is <m>A</m> invertible? Justify your answer.
+                    </p>
+                  </li>
+                </ol>
+              </p>
+            </statement>
+          </exercise>
+          <exercise>
+            <statement>
+              <p>
+                Let <m>T</m> be the linear transformation that rotates a vector <m>\mbf x</m> by <m>\pi/3</m> radians.
+              </p>
+              <ol marker="(a)">
+                <li>
+                  <p>
+                    Find <m>T \left( \bbm 0 \\ 2 \ebm \right)</m>
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    Determine the matrix that represents <m>T</m>.
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    Explain (without performing any matrix multiplication) why <m>A^{6} = I</m>. Argue geometrically.
+                  </p>
+                </li>
+              </ol>
+            </statement>
+          </exercise> 
+          <exercise>
+            <statement>
+              <p>
+                Let <m>A = \bbm 2 \amp 0 \amp 1 \\ 1 \amp 2 \amp 4 \\ -1 \amp 3 \amp 5 \ebm</m>.  
+              </p>
+              <ol>
+                <li>
+                  <p>
+                    Find <m>A\inv.</m>
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    Find the solution set to the equation <m>A \mbf x = \mbf b</m> where <m>\mbf b = \bbm 3 \\ 7 \\ 7 \ebm.</m>
+                  </p>
+                </li>
+              </ol>
+            </statement>
+
+            
+          </exercise>
+        </exercises>
+      </section>
     </chapter>
 
     <!-- Include backmatter -->

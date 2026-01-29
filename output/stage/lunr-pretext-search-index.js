@@ -127,6 +127,60 @@ var ptx_lunr_docs = [
   "body": " Exam 1 Topics    Section 1.1   Solving linear systems - Ex 5, 7, 9    Systems with zero, one, or infinite solutions - Ex 20       Section 1.2   Row reduced echelon form - Ex 5, 7    Finding solutions to combinations of vectors - Ex 38       Section 1.3    Rank of a matrix - Ex 2, 3, 4    Matrix times a vector - Ex 16, 17, 18    Definition of a linear combination; finding linear combinations - Ex 55, 58      Chapter 1 True\/False: Ex - 2, 3, 5, 11, 17, 20, 21    Section 2.1    Definition of a linear transformation    Finding the matrix of a linear transformation - Ex 4, 6,    Theorem 2.1.3 - Characterizing linear transformations - Ex 43, 45      Section 2.2    Definition 2.2.1 - Orthogonal projections on to a line - (see quiz 3) For another example, find the matrix of the linear transformation that projects vectors onto the line with equation .    Finding the matrix for a rotation - Ex 2    Finding the matrix of a composition of simple transformations (see Quiz 2). For another exercise, find the matrix of the transformation that reflects a vector across the -axis, and then rotates it radians counterclockwise. Then use the matrix to compute .      Section 2.3    Matrix multiplication - Ex 7, 10, 11, 57    Properties of matrix multiplication - Ex 43, 44, 65      Section 2.4    Definition of invertible matrix    Conditions for invertible matrix    Finding inverse matrices - Ex 1, 3, 7, 9, 33    Inverse of a product - Ex 67-75    Determinants and invertible matrices      Chapter 2 True\/False - Ex 2, 5, 6, 7, 8, 17, 22, 28, 30, 40, 43    "
 },
 {
+  "id": "sec-sample-exam-questions",
+  "level": "1",
+  "url": "sec-sample-exam-questions.html",
+  "type": "Section",
+  "number": "4.2",
+  "title": "Sample exam questions",
+  "body": " Sample exam questions        Define what it means for to be a linear combination of vectors .    Show that is a linear combination of .         Solve the linear system       Suppose that a matrix is a matrix with      What is ?    Find all solutions to the matrix equation .    Is invertible? Justify your answer.         Let be the linear transformation that rotates a vector by radians.    Find     Determine the matrix that represents .    Explain (without performing any matrix multiplication) why . Argue geometrically.        Let .    Find     Find the solution set to the equation where        "
+},
+{
+  "id": "exercises-linalg_ex1-1",
+  "level": "2",
+  "url": "sec-sample-exam-questions.html#exercises-linalg_ex1-1",
+  "type": "Exercise",
+  "number": "4.2.1",
+  "title": "",
+  "body": "     Define what it means for to be a linear combination of vectors .    Show that is a linear combination of .      "
+},
+{
+  "id": "exercises-linalg_ex1-2",
+  "level": "2",
+  "url": "sec-sample-exam-questions.html#exercises-linalg_ex1-2",
+  "type": "Exercise",
+  "number": "4.2.2",
+  "title": "",
+  "body": "  Solve the linear system    "
+},
+{
+  "id": "exercises-linalg_ex1-3",
+  "level": "2",
+  "url": "sec-sample-exam-questions.html#exercises-linalg_ex1-3",
+  "type": "Exercise",
+  "number": "4.2.3",
+  "title": "",
+  "body": "  Suppose that a matrix is a matrix with      What is ?    Find all solutions to the matrix equation .    Is invertible? Justify your answer.      "
+},
+{
+  "id": "exercises-linalg_ex1-4",
+  "level": "2",
+  "url": "sec-sample-exam-questions.html#exercises-linalg_ex1-4",
+  "type": "Exercise",
+  "number": "4.2.4",
+  "title": "",
+  "body": "  Let be the linear transformation that rotates a vector by radians.    Find     Determine the matrix that represents .    Explain (without performing any matrix multiplication) why . Argue geometrically.     "
+},
+{
+  "id": "exercises-linalg_ex1-5",
+  "level": "2",
+  "url": "sec-sample-exam-questions.html#exercises-linalg_ex1-5",
+  "type": "Exercise",
+  "number": "4.2.5",
+  "title": "",
+  "body": "  Let .    Find     Find the solution set to the equation where      "
+},
+{
   "id": "backmatter-2",
   "level": "1",
   "url": "backmatter-2.html",
