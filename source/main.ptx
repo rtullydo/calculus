@@ -68,6 +68,26 @@
       </exercise>
     </exercises>
       </section>
+      <section xml:id="sec-quiz2">
+        <title>Quiz 2</title>
+        <exercises>
+          <exercise>
+            <statement>
+              <p>
+                Draw pictures and set up the integral to find the volume of the solid resulting from rotating the region bounded by <m>y = 1 - (x - 2)^2</m> and <m>y = 0</m> about the axis of rotation <m>x = -2</m>.
+              </p>
+            </statement>
+          </exercise>
+          <exercise>
+            <statement>
+              <p>
+                Draw pictures and find an integral for the volume of the solid resulting from rotating the region bounded by <m>y = \sec x</m> and <m>y = 2</m> about the axis of rotation <m>y = -2</m>.
+              </p>
+            </statement>
+          </exercise>
+          
+        </exercises>
+      </section>
     </chapter>
 
     <chapter xml:id="ch-review-material">

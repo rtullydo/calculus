@@ -64,6 +64,33 @@ var ptx_lunr_docs = [
   "body": "  Sketch the region enclosed by the curves and . Calculate the area of the region.   "
 },
 {
+  "id": "sec-quiz2",
+  "level": "1",
+  "url": "sec-quiz2.html",
+  "type": "Section",
+  "number": "2.2",
+  "title": "Quiz 2",
+  "body": " Quiz 2     Draw pictures and set up the integral to find the volume of the solid resulting from rotating the region bounded by and about the axis of rotation .      Draw pictures and find an integral for the volume of the solid resulting from rotating the region bounded by and about the axis of rotation .     "
+},
+{
+  "id": "sec-quiz2-2-1",
+  "level": "2",
+  "url": "sec-quiz2.html#sec-quiz2-2-1",
+  "type": "Exercise",
+  "number": "2.2.1",
+  "title": "",
+  "body": "  Draw pictures and set up the integral to find the volume of the solid resulting from rotating the region bounded by and about the axis of rotation .   "
+},
+{
+  "id": "sec-quiz2-2-2",
+  "level": "2",
+  "url": "sec-quiz2.html#sec-quiz2-2-2",
+  "type": "Exercise",
+  "number": "2.2.2",
+  "title": "",
+  "body": "  Draw pictures and find an integral for the volume of the solid resulting from rotating the region bounded by and about the axis of rotation .   "
+},
+{
   "id": "sec-sample-exam-1",
   "level": "1",
   "url": "sec-sample-exam-1.html",
