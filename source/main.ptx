@@ -88,6 +88,18 @@
           
         </exercises>
       </section>
+      <section xml:id="sec-quiz-3">
+        <title>Quiz 3</title>
+        <exercises>
+          <exercise>
+            <statement>
+              <p>
+                Consider a tank in the shape of a (horizontally oriented) right circular cylinder of radius $4 \mathrm m$ and length $10 \mathrm m$. A spout of height $1 \mathrm m$ is attached to the top of the tank. The tank is filled with a fluid of density <m>\rho \mathrm{kg/m}^3</m> to the height of <m>3m</m> in the tank. Draw pictures, including a typical slab and a cross-section of the tank. Find an integral expression for the work required to pump the tank empty through the spout.
+              </p>
+            </statement>
+          </exercise>
+        </exercises>
+      </section>
     </chapter>
 
     <chapter xml:id="ch-review-material">
