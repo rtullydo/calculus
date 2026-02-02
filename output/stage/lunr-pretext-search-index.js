@@ -97,7 +97,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "2.3",
   "title": "Quiz 3",
-  "body": " Quiz 3     Consider a tank in the shape of a (horizontally oriented) right circular cylinder of radius $4 \\mathrm m$ and length $10 \\mathrm m$. A spout of height $1 \\mathrm m$ is attached to the top of the tank. The tank is filled with a fluid of density to the height of in the tank. Draw pictures, including a typical slab and a cross-section of the tank. Find an integral expression for the work required to pump the tank empty through the spout.     "
+  "body": " Quiz 3     Consider a tank in the shape of a (horizontally oriented) right circular cylinder of radius and length . A spout of height is attached to the top of the tank. The tank is filled with a fluid of density to the height of in the tank. Draw pictures, including a typical slab and a cross-section of the tank. Find an integral expression for the work required to pump the tank empty through the spout.     "
 },
 {
   "id": "sec-quiz-3-2-1",
@@ -106,7 +106,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "2.3.1",
   "title": "",
-  "body": "  Consider a tank in the shape of a (horizontally oriented) right circular cylinder of radius $4 \\mathrm m$ and length $10 \\mathrm m$. A spout of height $1 \\mathrm m$ is attached to the top of the tank. The tank is filled with a fluid of density to the height of in the tank. Draw pictures, including a typical slab and a cross-section of the tank. Find an integral expression for the work required to pump the tank empty through the spout.   "
+  "body": "  Consider a tank in the shape of a (horizontally oriented) right circular cylinder of radius and length . A spout of height is attached to the top of the tank. The tank is filled with a fluid of density to the height of in the tank. Draw pictures, including a typical slab and a cross-section of the tank. Find an integral expression for the work required to pump the tank empty through the spout.   "
 },
 {
   "id": "sec-sample-exam-1",
