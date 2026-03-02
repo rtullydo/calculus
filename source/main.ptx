@@ -185,6 +185,23 @@
           </exercise>
         </exercises>
       </section>
+
+    <section xml:id="sec-sample-exam-2">
+      <title>Sample Exam 2</title>
+        <exercises>
+          <exercise>
+            <statement>
+              <p>
+                Evaluate
+                <md>
+                  \int \frac{\sqrt{\arctan x}}{1 + x^2} \, dx
+                </md>
+                
+              </p>
+            </statement>
+          </exercise>
+        </exercises>
+    </section>
     </chapter>
 
     <chapter xml:id="ch-exam-topics">

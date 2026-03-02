@@ -163,6 +163,24 @@ var ptx_lunr_docs = [
   "body": "  Consider the function .    Find an equation of the tangent line to at point where .    The function has a relative minimum. Find it.      Fir part b, consider using the derivative to find points with 0 slope.   "
 },
 {
+  "id": "sec-sample-exam-2",
+  "level": "1",
+  "url": "sec-sample-exam-2.html",
+  "type": "Section",
+  "number": "3.2",
+  "title": "Sample Exam 2",
+  "body": " Sample Exam 2     Evaluate      "
+},
+{
+  "id": "sec-sample-exam-2-2",
+  "level": "2",
+  "url": "sec-sample-exam-2.html#sec-sample-exam-2-2",
+  "type": "Checkpoint",
+  "number": "3.2.1",
+  "title": "",
+  "body": "   Evaluate     "
+},
+{
   "id": "sec-lin-alg",
   "level": "1",
   "url": "sec-lin-alg.html",
