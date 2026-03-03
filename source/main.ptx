@@ -670,14 +670,14 @@
                 <p>
                   Definitions to know: Gram-Schmidt
                 </p>
-                <ol>
-                  <li>
-                    <p>
-                      Exercises (no QR factorization necessary): 5, 13, 14, 32, 33
-                    </p>
-                  </li>
-                </ol>
               </li>
+              <li>
+                <p>
+                  Exercises (no QR factorization necessary): 5, 13, 14, 32, 33
+                </p>
+              </li>
+
+
             </ol>
           </li>
           <li>
@@ -696,6 +696,11 @@
                 </p>
               </li>
             </ol>
+          </li>
+          <li>
+            <p>
+              All quizzes!
+            </p>
           </li>
         </ol>
       </section>
