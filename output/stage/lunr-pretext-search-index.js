@@ -298,6 +298,15 @@ var ptx_lunr_docs = [
   "body": "  Let .    Find     Find the solution set to the equation where      "
 },
 {
+  "id": "sec-exam-2-topics",
+  "level": "1",
+  "url": "sec-exam-2-topics.html",
+  "type": "Section",
+  "number": "4.3",
+  "title": "Exam 2 Topics",
+  "body": " Exam 2 Topics    Section 3.1    Definitions to know: span, spanning set, image, kernel    Exercises: 7, 8, 13      Section 3.2    Definitions to know: subspace, basis, linear relation, linear dependence, linear independence.    Exercises: 19, 24, 30, 34      Section 3.3    Definitions to know: dimension of a subspace, rank-nullity theorem    Exercises: 20, 22, 29, 37      Section 3.4    Definitions to know: coordinates, -matrix, similar matrices    Exercises: 19-24 (no commutative diagram necessary), 25-28, 37, 38      Section 5.1    Definitions to know: orthonormal vectors, orthogonal projection formula, orthonormal basis, orthogonal complement    Exercises: 17, 26, 27      Section 5.2    Definitions to know: Gram-Schmidt    Exercises (no QR factorization necessary): 5, 13, 14, 32, 33        Section 5.4    Definitions to know: transpose of a matrix, orthogonal complement, least-squares solution, normal equation    Exercises: 2, 5, 22, 24, 31, 30      "
+},
+{
   "id": "backmatter-2",
   "level": "1",
   "url": "backmatter-2.html",
