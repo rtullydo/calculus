@@ -224,7 +224,7 @@
               <p>
                 Evaluate
                 <md>
-                  \int \frac{x^2 + x+1}{x^2 (x^2 + 4)} \, dx.
+                  \int \frac{x^2 + x +1}{x^2 (x^2 + 4)} \, dx.
                 </md>
               </p>
             </statement>
