@@ -573,6 +573,132 @@
           </exercise>
         </exercises>
       </section>
+      <section xml:id="sec-exam-2-topics">
+        <title>Exam 2 Topics</title>
+        <ol>
+          <li>
+            <p>
+              Section 3.1
+            </p>
+          <ol>
+            <li>
+              <p>
+                Definitions to know: span, spanning set, image, kernel
+              </p>
+            </li>
+            <li>
+              <p>
+                Exercises: 7, 8, 13
+              </p>
+            </li>
+          </ol>
+          </li>
+          <li>
+            <p>
+              Section 3.2
+            </p>
+            <ol>
+              <li>
+                <p>
+                  Definitions to know: subspace, basis, linear relation, linear dependence, linear independence.
+                </p>
+              </li>
+              <li>
+                <p>
+                  Exercises: 19, 24, 30, 34
+                </p>
+              </li>
+            </ol>
+          </li>
+          <li>
+            <p>
+              Section 3.3
+            </p>
+            <ol>
+              <li>
+                <p>
+                  Definitions to know: dimension of a subspace, rank-nullity theorem
+                </p>
+              </li>
+              <li>
+                <p>
+                  Exercises: 20, 22, 29, 37
+                </p>
+              </li>
+            </ol>
+          </li>
+          <li>
+            <p>
+              Section 3.4
+            </p>
+            <ol>
+              <li>
+                <p>
+                  Definitions to know: coordinates, <m>\mathcal B</m>-matrix, similar matrices
+                </p>
+              </li>
+              <li> 
+                <p>
+                  Exercises: 19-24 (no commutative diagram necessary), 25-28, 37, 38 
+                </p>
+              </li>
+            </ol>
+          </li>
+          <li>
+            <p>
+              Section 5.1
+            </p>
+            <ol>
+              <li>
+                <p>
+                  Definitions to know: orthonormal vectors, orthogonal projection formula, orthonormal basis, orthogonal complement
+                </p>
+              </li>
+              <li>
+                <p>
+                  Exercises: 17, 26, 27
+                </p>
+              </li>
+            </ol>
+          </li>
+          <li>
+            <p>
+              Section 5.2
+            </p>
+            <ol>
+              <li>
+                <p>
+                  Definitions to know: Gram-Schmidt
+                </p>
+                <ol>
+                  <li>
+                    <p>
+                      Exercises (no QR factorization necessary): 5, 13, 14, 32, 33
+                    </p>
+                  </li>
+                </ol>
+              </li>
+            </ol>
+          </li>
+          <li>
+            <p>
+              Section 5.4
+            </p>
+            <ol>
+              <li>
+                <p>
+                  Definitions to know: transpose of a matrix, orthogonal complement, least-squares solution, normal equation
+                </p>
+              </li>
+              <li>
+                <p>
+                  Exercises: 2, 5, 22, 24, 31, 30
+                </p>
+              </li>
+            </ol>
+          </li>
+        </ol>
+      </section>
     </chapter>
 
     <!-- Include backmatter -->
