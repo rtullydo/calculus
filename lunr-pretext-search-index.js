@@ -163,6 +163,78 @@ var ptx_lunr_docs = [
   "body": "  Consider the function .    Find an equation of the tangent line to at point where .    The function has a relative minimum. Find it.      Fir part b, consider using the derivative to find points with 0 slope.   "
 },
 {
+  "id": "sec-sample-exam-2",
+  "level": "1",
+  "url": "sec-sample-exam-2.html",
+  "type": "Section",
+  "number": "3.2",
+  "title": "Sample Exam 2",
+  "body": " Sample Exam 2     Evaluate     A well-chosen -substitution should work.      Evaluate     Use long division.      Evaluate     Use partial fractions.      Evaluate     One way or another you'll need to use a double angle identity.      Evaluate     Use integration by parts. Be careful with limits of integration.      Compute the limit.     You'll need to use the method of evaluating the power form of l'Hospital's rule.      Simplify     Use the triangle method from 6.6.     "
+},
+{
+  "id": "sec-sample-exam-2-2-1",
+  "level": "2",
+  "url": "sec-sample-exam-2.html#sec-sample-exam-2-2-1",
+  "type": "Exercise",
+  "number": "3.2.1",
+  "title": "",
+  "body": "  Evaluate     A well-chosen -substitution should work.   "
+},
+{
+  "id": "sec-sample-exam-2-2-2",
+  "level": "2",
+  "url": "sec-sample-exam-2.html#sec-sample-exam-2-2-2",
+  "type": "Exercise",
+  "number": "3.2.2",
+  "title": "",
+  "body": "  Evaluate     Use long division.   "
+},
+{
+  "id": "sec-sample-exam-2-2-3",
+  "level": "2",
+  "url": "sec-sample-exam-2.html#sec-sample-exam-2-2-3",
+  "type": "Exercise",
+  "number": "3.2.3",
+  "title": "",
+  "body": "  Evaluate     Use partial fractions.   "
+},
+{
+  "id": "sec-sample-exam-2-2-4",
+  "level": "2",
+  "url": "sec-sample-exam-2.html#sec-sample-exam-2-2-4",
+  "type": "Exercise",
+  "number": "3.2.4",
+  "title": "",
+  "body": "  Evaluate     One way or another you'll need to use a double angle identity.   "
+},
+{
+  "id": "sec-sample-exam-2-2-5",
+  "level": "2",
+  "url": "sec-sample-exam-2.html#sec-sample-exam-2-2-5",
+  "type": "Exercise",
+  "number": "3.2.5",
+  "title": "",
+  "body": "  Evaluate     Use integration by parts. Be careful with limits of integration.   "
+},
+{
+  "id": "sec-sample-exam-2-2-6",
+  "level": "2",
+  "url": "sec-sample-exam-2.html#sec-sample-exam-2-2-6",
+  "type": "Exercise",
+  "number": "3.2.6",
+  "title": "",
+  "body": "  Compute the limit.     You'll need to use the method of evaluating the power form of l'Hospital's rule.   "
+},
+{
+  "id": "sec-sample-exam-2-2-7",
+  "level": "2",
+  "url": "sec-sample-exam-2.html#sec-sample-exam-2-2-7",
+  "type": "Exercise",
+  "number": "3.2.7",
+  "title": "",
+  "body": "  Simplify     Use the triangle method from 6.6.   "
+},
+{
   "id": "sec-lin-alg",
   "level": "1",
   "url": "sec-lin-alg.html",
