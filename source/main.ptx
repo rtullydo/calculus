@@ -705,6 +705,148 @@
         </ol>
       </section>
     </chapter>
+    <chapter xml:id="ch-linear-algbera-quizzes">
+      <title>Linear algbera quizzes</title>
+      <section xml:id="sec-quiz-4">
+        <title>Quiz 4</title>
+        <exercises xml:id="exercises-q4">
+          <exercise>
+            <statement>
+              <p>
+                Let
+                <md>
+                  A = \bbm 1 \amp 0 \amp -3 \amp 0 \amp 0 \\ 0 \amp 1 \amp 1 \amp 0 \amp 0 \\ 1 \amp 2 \amp -1 \amp 1 \amp 6 \\ 1 \amp -1 \amp -4 \amp 0 \amp 0 \ebm.
+                </md>
+              Find a basis for <m>\operatorname{ker} A</m> and a basis for <m>\operatorname{im} A</m>.  
+
+              </p>
+            </statement>
+          </exercise>
+          <exercise>
+            <statement>
+              <p>
+                Suppose that
+                <md>
+                  A = \bbm \mbf v_1 \amp \mbf v_2 \amp \mbf v_3 \amp \mbf v_4 \amp \mbf v_5 \ebm 
+                </md>
+                and 
+                <md>
+                  B = B = \operatorname{rref} A = \bbm 1 \amp -2 \amp 0 \amp 2 \amp 0 \\ 0 \amp 0 \amp 1 \amp 3 \amp 0 \\ 0 \amp 0 \amp 0 \amp 0 \amp 1 \\ 0 \amp 0 \amp 0 \amp 0 \amp 0 \ebm.
+                </md>
+                Find a basis for <m>\operatorname{ker} A</m> and a basis for <m>\operatorname{im} A</m>.
+              </p>
+            </statement>
+          </exercise>
+          <exercise>
+            <statement>
+              <p>
+                Suppose that <m>\mbf v_1, \ldots, \mbf v_k</m> are linearly dependent vectors in <m>\mathbb R^m</m>. Let T be a linear transformation <m>T: \mathbb R^m \to \mathbb R^n.</m> Show that the vectors <m>T(\mbf v_1), \ldots, T(\mbf v_k)</m> are linearly dependent vectors.
+              </p>
+            </statement>
+          </exercise>
+        </exercises>
+      </section>
+      <section xml:id="sec-quiz-5">
+        <title>Quiz 5</title>
+        <exercises xml:id="exercises-q5">
+          <exercise>
+            <introduction>
+              <p>
+                Consider the vectors
+                <md>
+                  \mbf v_1 = \bbm 1 \\ 1 \\  0 \ebm, \mbf v_2 = \bbm 1 \\ 0 \\ 1 \ebm, \mbf v_3 = \bbm 0 \\ 1 \\ 0 \ebm.
+                </md>
+                Let <m>T(\mbf x) = A\mbf x</m> where
+                <md>
+                  A = \bbm 2 \amp 0 \amp 1 \\ 4 \amp -2 \amp -4 \\ 0 \amp 0 \amp 3 \ebm.
+                </md>               
+              </p>
+            </introduction>
+            <task>
+              <statement>
+                <p>
+                  Explain why <m>\mathcal B = \{ \mbf v_1, \mbf v_2, \mbf v_3 \}</m> is a basis for <m>\R^3</m>.
+                </p>
+              </statement>
+            </task>
+            <task>
+              <statement>
+                <p>
+                  If <m>S = \bbm \mbf v_1 \amp \mbf v_2 \amp \mbf v_3 \ebm</m>, find <m>S\inv</m>.
+                </p>
+              </statement>
+            </task>
+            <task>
+              <statement>
+                <p>
+                  Find the <m>\mathcal B</m>-matrix for <m>T</m> by using the formula 
+                  <md>
+                    B = S\inv A S.
+                  </md>
+                  
+                </p>
+              </statement>
+              <hint>
+                <p>
+                  Your answer should be a diagonal matrix.
+                </p>
+              </hint>
+            </task>
+          </exercise>
+          <exercise>
+            <introduction>
+              <p>
+                Consider the vectors
+                <md>
+                  \mbf v_1 = \bbm 1 \\ 1 \\  0 \ebm, \mbf v_2 = \bbm 1 \\ 0 \\ 1 \ebm, \mbf v_3 = \bbm 0 \\ 1 \\ 0 \ebm.
+                </md>
+                Let <m>T(\mbf x) = A\mbf x</m> where
+                <md>
+                  A = \bbm 2 \amp 0 \amp 1 \\ 4 \amp -2 \amp -4 \\ 0 \amp 0 \amp 3 \ebm.
+                </md>               
+              </p>
+            </introduction>
+            <task>
+              <statement>
+                <p>
+                  Compute <m>T(\mbf v_1), T(\mbf v_2), T(\mbf v_3)</m>.
+                </p>
+              </statement>
+            </task>
+            <task>
+              <statement>
+                <p>
+                  Write <m>T(\mbf v_1)</m> as a linear combination of <m>\mbf v_1, \mbf v_2, \mbf v_3</m>. Do the same for <m>T(\mbf v_2)</m> and <m>T(\mbf v_3)</m>.
+                </p>
+              </statement>
+            </task>
+            <task>
+              <statement>
+                <p>
+                  Use your answer to the previous part to find the coordinate vectors <m>[T(\mbf v_1)]_\mathcal{B}, \,\,\, [T(\mbf v_2)]_\mathcal{B}, \,\,\, [T(\mbf v_3)]_\mathcal{B}</m>.
+                </p>
+              </statement>
+            </task>
+            <task>
+              <statement>
+                <p>
+                  Find the <m>\mathcal{B}</m>-matrix for <m>T</m> by the formula
+                  <md>
+                    B = \bbm [T(\mbf v_1)]_\mathcal{B} \amp  [T(\mbf v_2)]_\mathcal{B} \amp [T(\mbf v_3)]_\mathcal{B} \ebm.
+                  </md>
+                  
+                </p>
+              </statement>
+              <hint>
+                <p>
+                  Your answer to this question should be the same as the answer to the final answer in Exercise 1.
+                </p>
+              </hint>
+            </task>
+          </exercise>
+        </exercises>
+      </section>
+    </chapter>
 
     <!-- Include backmatter -->
     <xi:include href="./backmatter.ptx" />

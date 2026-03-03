@@ -307,6 +307,69 @@ var ptx_lunr_docs = [
   "body": " Exam 2 Topics    Section 3.1    Definitions to know: span, spanning set, image, kernel    Exercises: 7, 8, 13      Section 3.2    Definitions to know: subspace, basis, linear relation, linear dependence, linear independence.    Exercises: 19, 24, 30, 34      Section 3.3    Definitions to know: dimension of a subspace, rank-nullity theorem    Exercises: 20, 22, 29, 37      Section 3.4    Definitions to know: coordinates, -matrix, similar matrices    Exercises: 19-24 (no commutative diagram necessary), 25-28, 37, 38      Section 5.1    Definitions to know: orthonormal vectors, orthogonal projection formula, orthonormal basis, orthogonal complement    Exercises: 17, 26, 27      Section 5.2    Definitions to know: Gram-Schmidt    Exercises (no QR factorization necessary): 5, 13, 14, 32, 33      Section 5.4    Definitions to know: transpose of a matrix, orthogonal complement, least-squares solution, normal equation    Exercises: 2, 5, 22, 24, 31, 30      All quizzes!    "
 },
 {
+  "id": "sec-quiz-4",
+  "level": "1",
+  "url": "sec-quiz-4.html",
+  "type": "Section",
+  "number": "5.1",
+  "title": "Quiz 4",
+  "body": " Quiz 4     Let Find a basis for and a basis for .      Suppose that and Find a basis for and a basis for .      Suppose that are linearly dependent vectors in . Let T be a linear transformation Show that the vectors are linearly dependent vectors.     "
+},
+{
+  "id": "exercises-q4-1",
+  "level": "2",
+  "url": "sec-quiz-4.html#exercises-q4-1",
+  "type": "Exercise",
+  "number": "5.1.1",
+  "title": "",
+  "body": "  Let Find a basis for and a basis for .   "
+},
+{
+  "id": "exercises-q4-2",
+  "level": "2",
+  "url": "sec-quiz-4.html#exercises-q4-2",
+  "type": "Exercise",
+  "number": "5.1.2",
+  "title": "",
+  "body": "  Suppose that and Find a basis for and a basis for .   "
+},
+{
+  "id": "exercises-q4-3",
+  "level": "2",
+  "url": "sec-quiz-4.html#exercises-q4-3",
+  "type": "Exercise",
+  "number": "5.1.3",
+  "title": "",
+  "body": "  Suppose that are linearly dependent vectors in . Let T be a linear transformation Show that the vectors are linearly dependent vectors.   "
+},
+{
+  "id": "sec-quiz-5",
+  "level": "1",
+  "url": "sec-quiz-5.html",
+  "type": "Section",
+  "number": "5.2",
+  "title": "Quiz 5",
+  "body": " Quiz 5     Consider the vectors Let where      Explain why is a basis for .      If , find .      Find the -matrix for by using the formula     Your answer should be a diagonal matrix.       Consider the vectors Let where      Compute .      Write as a linear combination of . Do the same for and .      Use your answer to the previous part to find the coordinate vectors .      Find the -matrix for by the formula     Your answer to this question should be the same as the answer to the final answer in Exercise 1.      "
+},
+{
+  "id": "exercises-q5-1",
+  "level": "2",
+  "url": "sec-quiz-5.html#exercises-q5-1",
+  "type": "Exercise",
+  "number": "5.2.1",
+  "title": "",
+  "body": "  Consider the vectors Let where      Explain why is a basis for .      If , find .      Find the -matrix for by using the formula     Your answer should be a diagonal matrix.    "
+},
+{
+  "id": "exercises-q5-2",
+  "level": "2",
+  "url": "sec-quiz-5.html#exercises-q5-2",
+  "type": "Exercise",
+  "number": "5.2.2",
+  "title": "",
+  "body": "  Consider the vectors Let where      Compute .      Write as a linear combination of . Do the same for and .      Use your answer to the previous part to find the coordinate vectors .      Find the -matrix for by the formula     Your answer to this question should be the same as the answer to the final answer in Exercise 1.    "
+},
+{
   "id": "backmatter-2",
   "level": "1",
   "url": "backmatter-2.html",
