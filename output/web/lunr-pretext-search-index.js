@@ -172,13 +172,13 @@ var ptx_lunr_docs = [
   "body": " Sample Exam 2     Evaluate      "
 },
 {
-  "id": "sec-sample-exam-2-2",
+  "id": "sec-sample-exam-2-2-1",
   "level": "2",
-  "url": "sec-sample-exam-2.html#sec-sample-exam-2-2",
-  "type": "Checkpoint",
+  "url": "sec-sample-exam-2.html#sec-sample-exam-2-2-1",
+  "type": "Exercise",
   "number": "3.2.1",
   "title": "",
-  "body": "   Evaluate     "
+  "body": "  Evaluate    "
 },
 {
   "id": "sec-lin-alg",
